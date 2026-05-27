@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @yekater
 - 👀 I’m interested in creative web development
+- I code on Java, Python, JavaScript (Angular, React, Flutter)
+- I like to make web apps that are functional and beautiful
 - 📫 How to reach me telegram @yekaterhina
